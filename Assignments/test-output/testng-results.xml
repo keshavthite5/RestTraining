@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-15T10:53:20Z" name="Default suite" finished-at="2022-07-15T10:53:27Z" duration-ms="7299">
+    <groups>
+    </groups>
+    <test started-at="2022-07-15T10:53:20Z" name="Default test" finished-at="2022-07-15T10:53:27Z" duration-ms="7299">
+      <class name="Assignment2.NewTest">
+        <test-method signature="Assignment1()[pri:0, instance:Assignment2.NewTest@16b2bb0c]" started-at="2022-07-15T10:53:20Z" name="Assignment1" finished-at="2022-07-15T10:53:26Z" duration-ms="5877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assignment1 -->
+        <test-method signature="Assignment2()[pri:0, instance:Assignment2.NewTest@16b2bb0c]" started-at="2022-07-15T10:53:26Z" name="Assignment2" finished-at="2022-07-15T10:53:27Z" duration-ms="1390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assignment2 -->
+      </class> <!-- Assignment2.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
